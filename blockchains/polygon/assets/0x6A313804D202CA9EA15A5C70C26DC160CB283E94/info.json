@@ -4,5 +4,86 @@
   "decimals": 18,
   "address": "0x6A313804D202CA9EA15A5C70C26DC160CB283E94",
   "chainId": 137,
-  "logoURI": "https://raw.githubusercontent.com/ghostfanman/assets/master/blockchains/polygon/assets/0x6A313804D202CA9EA15A5C70C26DC160CB283E94/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/ghostfanman/CurryZoom/master/blockchains/polygon/assets/0x6A313804D202CA9EA15A5C70C26DC160CB283E94/logo.png",
+
+  "type": "ERC20",
+  "status": "active",
+  "tags": ["food", "restaurant", "loyalty-token", "germany", "polygon-ecosystem"],
+  "website": "https://curryzoom.de",
+  "description": "Offizieller Utility-Token von CurryZoom – Deutschlands beste Currywurst Pommes! Einlösbar für Rabatte, exklusive Angebote und Treueprämien.",
+
+  "socials": {
+    "instagram": "https://www.instagram.com/curryzoom.de/",
+    "facebook": "https://www.facebook.com/curryzoom",
+    "tiktok": "https://www.tiktok.com/@curryzoom.de",
+    "googleMaps": "https://goo.gl/maps/HJsz5fjg5L6r9vce7"
+  },
+
+  "businessInfo": {
+    "slogan": "Die beste Currywurst Pommes Deutschlands!",
+    "specialties": [
+      "Klassische Currywurst",
+      "Gourmet-Pommes",
+      "Hausgemachte Saucen",
+      "Vegetarische/Vegane Optionen"
+    ],
+    "openingHours": "Mo-Fr: 11:30-18:30, Sa: Geschlossen, So: Geschlossen",
+    "paymentMethods": ["CZMT", "Karte", "Bar", "PayPal"]
+  },
+
+  "utility": [
+    "Currywurst Pommes Bochum",
+    "Kostenlose Extras (z.B. zusätzliche Sauce)",
+    "Exklusive Wochenangebote",
+    "Frühzugang zu neuen Produkten",
+    "Geburtstagsüberraschungen"
+  ],
+
+  "tokenomics": {
+    "totalSupply": "1000000",
+    "circulatingSupply": "500000",
+    "distribution": {
+      "customerRewards": "60%",
+      "marketing": "20%",
+      "team": "15%",
+      "community": "5%"
+    },
+    "burnMechanism": "Monatlicher Buyback & Burn"
+  },
+
+  "locations": [
+    {
+      "name": "CurryZoom – Parkplatz Getränkemarkt Muth",
+      "address": "Josef-Baumann-Straße 14, 44805 Bochum",
+      "phone": "+49 155 61583028",
+      "coordinates": {
+        "latitude": 51.518209,
+        "longitude": 7.220296
+      }
+    }
+  ],
+
+  "security": {
+    "contractVerified": true,
+    "verificationLink": "https://polygonscan.com/address/0x6A313804D202CA9EA15A5C70C26DC160CB283E94",
+    "kyc": false
+  },
+
+  "keywords": [
+    "currywurst",
+    "pommes",
+    "bochum",
+    "imbiss",
+    "loyalty",
+    "gastronomie",
+    "foodtoken",
+    "polygon"
+  ],
+
+  "contact": {
+    "email": "kontakt@curryzoom.de",
+    "reservations": "https://curryzoom.de",
+    "catering": "https://curryzoom.de"
+  }
 }
+
